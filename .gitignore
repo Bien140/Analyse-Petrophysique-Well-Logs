@@ -1,0 +1,13 @@
+# Fichier de configuration secret (Mots de passe, identifiants)
+.env
+
+# Fichiers temporaires de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Fichiers de cache Python
+pycache/
+*.pyc
+
+# Fichiers systèmes (Mac/Windows)
+.DS_Store
+Thumbs.db
